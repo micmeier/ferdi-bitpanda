@@ -1,0 +1,14 @@
+{
+    "id": "Bitpanda",
+    "name": "Bitpanda",
+    "version": "1.0.0",
+    "description": "Bitpanda",
+    "main": "index.js",
+    "author": "Michael Meier <micmeier05@gmail.com>",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://web.bitpanda.com/home",
+      "hasDirectMessages": false,
+      "hasNotificationSound": false
+    }
+  }
