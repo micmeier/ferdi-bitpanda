@@ -1,6 +1,6 @@
-Bitpanda recipe
+Bitpanda - Ferdi recipe
 
-This recipe is created Crypto trader using Bitpanda. Any improvement to this recipe is welcome
+This recipe is created for Crypto trader using Bitpanda. Any improvement to this recipe is welcome
 
 ### Release notes:
 
